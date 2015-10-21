@@ -1,2 +1,2 @@
 # gitClone
-Creating a new branch is quick & SIMPLE.
+Creating a new branch is quick AND simple.
